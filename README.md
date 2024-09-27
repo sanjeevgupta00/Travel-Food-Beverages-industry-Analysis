@@ -54,11 +54,15 @@ Data quality issues, including missing values and incorrect data types, are addr
 ## Part 2: Dashboard Building
 #### Adverse Event Reporting Dashboard
 The dashboard provides key metrics on report frequency, common symptoms, and product types, with interactive filters for detailed analysis by industry, product role, age group, and gender.
+![Adverse event analysis](https://github.com/user-attachments/assets/7b9aa6bf-2b22-4281-b94e-8de99ddb6ab5)
+
 ### Demographic Analysis
 The dashboard visualizes reporting trends over time and allows users to explore data by age and gender to identify demographic patterns in adverse events.
-Correlation and Trend Insights
+![Demographic analysis](https://github.com/user-attachments/assets/db64e284-24a0-4e81-9ec5-408dd11cb548)
+
 ### Industry and outcome analysis
 Interactive visuals illustrate the correlation between industries and reported outcomes, providing insights into potential high-risk categories and trends.
+![Industry and outcome analysis](https://github.com/user-attachments/assets/94b408a1-f889-46d2-9a25-d7afce1b7bdf)
 
 ### Data Storytelling and Insights
 The dashboard integrates storytelling techniques to summarize key insights derived from the data, helping users quickly identify the most important findings.
